@@ -32,14 +32,13 @@ const Footer = () => (
       </div>
       <div className="gpt3__footer-links_div">
         <h4>Get in touch</h4>
-        <p>Kabwata, Lusaka-Zambia</p>
         <p>+260776578583</p>
         <p>contact@marksikaundi.com</p>
       </div>
     </div>
 
     <div className="gpt3__footer-copyright">
-      <p>@2022 Mark-Sikaundi. All rights reserved.</p>
+      <p>Powered by DevCircle Africa.</p>
     </div>
   </div>
 );
